@@ -1,0 +1,25 @@
+{
+  "name": "koa_web_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techpang666/koa_web_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techpang666/koa_web_server/issues"
+  },
+  "homepage": "https://github.com/techpang666/koa_web_server#readme"
+}
